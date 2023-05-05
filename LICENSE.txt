@@ -1,0 +1,64 @@
+LICENÇA PÚBLICA GERAL GNU AFFERO
+Versão 3, 19 de novembro de 2007
+
+Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+
+Todos podem copiar e distribuir cópias verbatim deste documento de licença,
+mas modificá-lo não é permitido.
+
+                              Preambulo
+
+A Licença Pública Geral GNU Affero é uma licença de software livre e copyleft
+para software e outros tipos de obras, especificamente projetada para garantir
+a cooperação da comunidade no caso de software de servidor de rede.
+
+Este programa é software livre: você pode redistribuí-lo e/ou modificá-lo
+sob os termos da Licença Pública Geral GNU Affero, conforme publicada pela
+Free Software Foundation, seja a versão 3 da Licença ou qualquer versão posterior.
+
+Este programa é distribuído na expectativa de que seja útil,
+mas SEM QUALQUER GARANTIA; sem mesmo a garantia implícita de
+COMERCIALIZAÇÃO ou ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO. Consulte a
+Licença Pública Geral GNU Affero para obter mais detalhes.
+
+Você deve ter recebido uma cópia da Licença Pública Geral GNU Affero
+junto com este programa. Se não, consulte <https://www.gnu.org/licenses/>.
+
+------------------------
+
+Copyright (C) 2015 JBS SA.
+
+POCDIRF
+
+Este software tem como objetivo a leitura de uma planilha de dados e a consequente geração de arquivos PDFs
+com os dados das linhas dessa planilha, tendo seu escopo e utilização original para a geração do DIRF de colaboradores.
+
+Este software inclui uma biblioteca DLL licenciada sob a Licença Pública Geral GNU Affero (AGPL), versão 3.
+
+Este software é um software livre: você pode redistribuí-lo e/ou modificá-lo
+sob os termos da Licença Pública Geral GNU Affero, conforme publicada pela
+Free Software Foundation, seja a versão 3 da Licença ou qualquer versão posterior.
+
+Este software é distribuído na expectativa de que seja útil,
+mas SEM QUALQUER GARANTIA; sem mesmo a garantia implícita de
+COMERCIALIZAÇÃO ou ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO. Consulte a
+Licença Pública Geral GNU Affero para obter mais detalhes.
+
+Você deve ter recebido uma cópia da Licença Pública Geral GNU Affero
+junto com este programa. Se não, consulte <https://www.gnu.org/licenses/>.
+
+Atribuição:
+
+O software POCDIRF inclui o seguinte software de terceiros:
+
+ItextSharp - Versão 5.0.5
+
+Copyright (c) 1998-2011 iText Group NV
+
+iText# (iTextSharp) é uma adaptação da biblioteca java de código aberto iText
+para geração de PDF escrita inteiramente em C# para a plataforma .NET.
+Mais detalhes em https://www.nuget.org/packages/iTextSharp/5.0.5
+
+Este software de terceiros é licenciado sob a Licença Pública Geral GNU Affero (AGPL), versão 3.
+
+Para obter mais informações sobre esta licença, visite: <https://www.gnu.org/licenses/agpl-3.0.en.html>
